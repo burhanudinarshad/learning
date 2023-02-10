@@ -10,7 +10,8 @@
 		"ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
 		"ghcr.io/devcontainers-contrib/features/terraform-ls-asdf:2": {},
 		"ghcr.io/dhoeric/features/terraform-docs:1": {},
-		"ghcr.io/stuartleeks/dev-container-features/azure-cli-persistence:0": {}
+		"ghcr.io/stuartleeks/dev-container-features/azure-cli-persistence:0": {},
+		"ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
